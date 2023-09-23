@@ -26,7 +26,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jogendrakmjangid)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jogendrakmjangid&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
